@@ -1,6 +1,6 @@
 {
   "name": "payload-sales-reports",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Sales totals by period, product and customer for Payload ecommerce, as data and endpoints with no admin component required.",
   "keywords": [
     "payload",
@@ -55,7 +55,8 @@
     "vitest": "4.0.18"
   },
   "peerDependencies": {
-    "payload": ">=3.50 <4"
+    "@payloadcms/plugin-ecommerce": ">=3.88 <4",
+    "payload": ">=3.88 <4"
   },
   "engines": {
     "node": ">=20"
