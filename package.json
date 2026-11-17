@@ -1,6 +1,6 @@
 {
   "name": "payload-sales-reports",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Sales totals by period, product and customer for Payload ecommerce, as data and endpoints with no admin component required.",
   "keywords": [
     "payload",
